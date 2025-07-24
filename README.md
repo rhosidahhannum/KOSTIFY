@@ -7,7 +7,7 @@ Kostify adalah aplikasi mobile yang dirancang untuk membantu mahasiswa dan peran
 [klik link ini untuk mencoba prototype aplikasi](https://www.figma.com/proto/EBSJ6TbKaZRWSK8MfgPlcp/TECHNO?node-id=162-1849&t=roDJUPrhMyjupDxG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=162%3A1849&show-proto-sidebar=1)
 
 # Tim 
-Rhosidah Hannum - Hipster
-Reva Nurnadia Syapa - Hipster
-Dewi Anggraeni - Hacker
-Rasti Ananda Indaryani - Hustler
+Rhosidah Hannum - Hipster <br>
+Reva Nurnadia Syapa - Hipster <br>
+Dewi Anggraeni - Hacker <br>
+Rasti Ananda Indaryani - Hustler<br>
